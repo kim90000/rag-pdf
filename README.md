@@ -1,7 +1,7 @@
 # rag-pdf
 ask your pdf free with huggingface model
 
-
+run in colab t4 free
 
 The code has been modified from
 
